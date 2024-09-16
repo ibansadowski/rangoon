@@ -1,2 +1,2 @@
 # rangoon
-rust book stuff idk why you would ever care
+rust book stuff that is very cool and you should care
